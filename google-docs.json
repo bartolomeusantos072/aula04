@@ -1,0 +1,1476 @@
+[
+  {
+    "question": "Qual atalho é usado para copiar no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + /",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, O, F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + C",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Alt + P, H",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + C' é usado para copiar no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para cortar no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + X",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Alt + P, C",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + P, O",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Y",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + X' é usado para cortar no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para colar no Google Docs?",
+    "answers": [
+      {
+        "option": "Alt + Shift + 5",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + M",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + V",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + V' é usado para colar no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para desfazer no Google Docs?",
+    "answers": [
+      {
+        "option": "Alt + Seta para baixo",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + U",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Z",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + K",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Z' é usado para desfazer no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para refazer no Google Docs?",
+    "answers": [
+      {
+        "option": "Alt + Shift + Seta para a esquerda",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + 9",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + Z",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + [",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Shift + Z' é usado para refazer no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para inserir quebra de página no Google Docs?",
+    "answers": [
+      {
+        "option": "Alt + Shift + Seta para a esquerda",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + N, O",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + C",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Enter",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Enter' é usado para inserir quebra de página no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para menu ajuda no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + Shift, T, D",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + /",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Alt + N, H",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + P, F",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + /' é usado para menu ajuda no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para colar sem formatação no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + V",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + V",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Alt + C",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + .",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Shift + V' é usado para colar sem formatação no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para inserir ou editar link no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + Shift, T, E",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + E",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + B",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + K",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + K' é usado para inserir ou editar link no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para abrir link no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + K",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + P, C",
+        "correct": false
+      },
+      {
+        "option": "Alt + Enter",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Alt + Shift, O, F",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Alt + Enter' é usado para abrir link no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para abrir no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Shift + ,",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + R",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt, U, A",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + O",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + O' é usado para abrir no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para localizar no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + [1-6]",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + \\",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + F",
+        "correct": true
+      },
+      {
+        "option": "Alt + Enter",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + F' é usado para localizar no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para localizar e substituir no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Shift + ,",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + C",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + 0",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + H",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + H' é usado para localizar e substituir no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para repetir a última ação no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Shift + L",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Y",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Alt + 0",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + [",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Y' é usado para repetir a última ação no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para negrito no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + B",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Alt + Shift, O, H",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + 9",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + ,",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + B' é usado para negrito no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para itálico no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + I",
+        "correct": true
+      },
+      {
+        "option": "Alt + Shift + Seta para a direita",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + U",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + 7",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + I' é usado para itálico no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para sublinhado no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + U",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Alt + 0",
+        "correct": false
+      },
+      {
+        "option": "Alt + Seta para cima",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Y",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + U' é usado para sublinhado no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para tachado no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Shift + ,",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + E",
+        "correct": false
+      },
+      {
+        "option": "Alt + Shift + 5",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Alt + Shift, T, G",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Alt + Shift + 5' é usado para tachado no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para sobrescrito no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + .",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Enter",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, T, D",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + 8",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + .' é usado para sobrescrito no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para subscrito no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + C",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + N, H",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + V",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + ,",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + ,' é usado para subscrito no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para limpar formatação no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + Shift, T, M",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + N, C",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + P, H",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + \\",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + \\' é usado para limpar formatação no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para aumentar o tamanho da fonte no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + P, C",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + R",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + .",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Y",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Shift + .' é usado para aumentar o tamanho da fonte no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para diminuir o tamanho da fonte no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Shift + 7",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + Seta para a esquerda/direita",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + ,",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + \\",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Shift + ,' é usado para diminuir o tamanho da fonte no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para copiar formatação do texto no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + Shift, T, M",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, T, S",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + C",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + C' é usado para copiar formatação do texto no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para colar formatação do texto no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + P, O",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + [",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + V",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + K",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + V' é usado para colar formatação do texto no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para aumentar recuo no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + ]",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + X",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + ,",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + ]' é usado para aumentar recuo no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para diminuir recuo no Google Docs?",
+    "answers": [
+      {
+        "option": "Alt + Seta para baixo",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + B",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, O, F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + [",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + [' é usado para diminuir recuo no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para aplicar estilo normal no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + Shift, O, F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, T, D",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + 0",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Shift + 7",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + 0' é usado para aplicar estilo normal no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para aplicar estilo de título [1-6] no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Shift + R",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + C",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + B",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + [1-6]",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + [1-6]' é usado para aplicar estilo de título [1-6] no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para alinhar à esquerda no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + ,",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + ,",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + I",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + L",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Shift + L' é usado para alinhar à esquerda no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para alinhar ao centro no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Shift + E",
+        "correct": true
+      },
+      {
+        "option": "Alt + Seta para cima",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + ,",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + N, U",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Shift + E' é usado para alinhar ao centro no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para alinhar à direita no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Shift + J",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + R",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + P, H",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Shift + R' é usado para alinhar à direita no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para justificar no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + P, F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, T, G",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + .",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + J",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Shift + J' é usado para justificar no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para lista numerada no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + Shift, O, H",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, O, F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + 7",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Shift + 7' é usado para lista numerada no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para lista com marcadores no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + N, O",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + P, U",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + 8",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Alt + Shift, T, E",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Shift + 8' é usado para lista com marcadores no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para lista de verificação no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Shift + 9",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Alt + P, H",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + ,",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Z",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Shift + 9' é usado para lista de verificação no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para girar 15° horário no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + ]",
+        "correct": false
+      },
+      {
+        "option": "Alt + Seta para a direita",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + K",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, O, H",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Alt + Seta para a direita' é usado para girar 15° horário no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para girar 15° anti-horário no Google Docs?",
+    "answers": [
+      {
+        "option": "Alt + Shift + Seta para a esquerda",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + C",
+        "correct": false
+      },
+      {
+        "option": "Alt + Seta para a esquerda",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Alt + N, F",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Alt + Seta para a esquerda' é usado para girar 15° anti-horário no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para girar 1° anti-horário no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + U",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt, U, A",
+        "correct": false
+      },
+      {
+        "option": "Alt + Shift + Seta para a esquerda",
+        "correct": true
+      },
+      {
+        "option": "Alt + Seta para cima",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Alt + Shift + Seta para a esquerda' é usado para girar 1° anti-horário no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para girar 1° horário no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + P, C",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + L",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + I",
+        "correct": false
+      },
+      {
+        "option": "Alt + Shift + Seta para a direita",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Alt + Shift + Seta para a direita' é usado para girar 1° horário no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para inserir comentário no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + C",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + 0",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + '",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + M",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + M' é usado para inserir comentário no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para inserir nota de rodapé no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + F",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Shift + E",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + C",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + V",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + F' é usado para inserir nota de rodapé no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para próxima nota de rodapé no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Shift + Seta para a esquerda/direita",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + .",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + K",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + N, F",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + N, F' é usado para ir para próxima nota de rodapé no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para anterior nota de rodapé no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + P, F",
+        "correct": true
+      },
+      {
+        "option": "Alt + Seta para a esquerda",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, O, F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + N, O",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + P, F' é usado para ir para anterior nota de rodapé no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para próxima sugestão no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + C",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + V",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, T, D",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + N, U",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + N, U' é usado para ir para próxima sugestão no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para sugestão anterior no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + .",
+        "correct": false
+      },
+      {
+        "option": "Alt + Seta para a esquerda",
+        "correct": false
+      },
+      {
+        "option": "Alt + Seta para baixo",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + P, U",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + P, U' é usado para ir para sugestão anterior no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para próximo comentário no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + N, C",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + O",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Y",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + .",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + N, C' é usado para ir para próximo comentário no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para comentário anterior no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + P, C",
+        "correct": true
+      },
+      {
+        "option": "Alt + Shift + 5",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + N, H",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + C",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + P, C' é usado para ir para comentário anterior no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para selecionar tudo no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Shift + ,",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + \\",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + A",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + /",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + A' é usado para selecionar tudo no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para cancelar seleção no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + \\",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + X",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt, U, A",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt, U, A' é usado para cancelar seleção no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para selecionar item atual da lista no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Shift + J",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + N, H",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, E, I",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + Shift, E, I' é usado para selecionar item atual da lista no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ampliar seleção em uma palavra no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + N, U",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + Seta para a esquerda/direita",
+        "correct": true
+      },
+      {
+        "option": "Alt + Shift + 5",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + E",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Shift + Seta para a esquerda/direita' é usado para ampliar seleção em uma palavra no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para página acima no Google Docs?",
+    "answers": [
+      {
+        "option": "Alt + Shift + Seta para a direita",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + H",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + L",
+        "correct": false
+      },
+      {
+        "option": "Alt + Seta para cima",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Alt + Seta para cima' é usado para página acima no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para página abaixo no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + P, C",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, T, D",
+        "correct": false
+      },
+      {
+        "option": "Alt + Seta para baixo",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Alt + Seta para baixo' é usado para página abaixo no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para próximo título no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + M",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + ;",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Z",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + N, H",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + N, H' é usado para ir para próximo título no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para título anterior no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + P, H",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Alt + Shift, O, F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + A",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + P, C",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + P, H' é usado para ir para título anterior no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para próxima lista no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + P, C",
+        "correct": false
+      },
+      {
+        "option": "Alt + Enter",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, O, F",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + N, O",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + N, O' é usado para ir para próxima lista no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para lista anterior no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + N, O",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + L",
+        "correct": false
+      },
+      {
+        "option": "Alt + Seta para baixo",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + P, O",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + P, O' é usado para ir para lista anterior no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para próximo erro ortográfico no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + N, U",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + N, C",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, E, I",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + '",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + '' é usado para ir para próximo erro ortográfico no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para erro ortográfico anterior no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Shift + 9",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + ;",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Shift + L",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + 8",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + ;' é usado para ir para erro ortográfico anterior no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para inserir cabeçalho no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + N, O",
+        "correct": false
+      },
+      {
+        "option": "Alt + Seta para cima",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, O, H",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + K",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + Shift, O, H' é usado para inserir cabeçalho no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para inserir rodapé no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + Shift, O, H",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + N, C",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, O, F",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + ,",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + Shift, O, F' é usado para inserir rodapé no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para o início da tabela no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Shift + L",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + N, U",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, T, S",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Alt, U, A",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + Shift, T, S' é usado para ir para o início da tabela no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para o fim da tabela no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Alt + Shift, T, D",
+        "correct": true
+      },
+      {
+        "option": "Alt + Shift + Seta para a esquerda",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + .",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Z",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + Shift, T, D' é usado para ir para o fim da tabela no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para próxima linha no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + Shift + 7",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Enter",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + N, H",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, T, M",
+        "correct": true
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + Shift, T, M' é usado para ir para próxima linha no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para ir para linha anterior no Google Docs?",
+    "answers": [
+      {
+        "option": "Ctrl + .",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, T, G",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + Alt + Shift, O, F",
+        "correct": false
+      },
+      {
+        "option": "Alt + Seta para cima",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + Shift, T, G' é usado para ir para linha anterior no Google Docs."
+  },
+  {
+    "question": "Qual atalho é usado para sair da tabela no Google Docs?",
+    "answers": [
+      {
+        "option": "Alt + Enter",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Shift + L",
+        "correct": false
+      },
+      {
+        "option": "Ctrl + Alt + Shift, T, E",
+        "correct": true
+      },
+      {
+        "option": "Ctrl + .",
+        "correct": false
+      }
+    ],
+    "reforço": "O atalho 'Ctrl + Alt + Shift, T, E' é usado para sair da tabela no Google Docs."
+  }
+]
