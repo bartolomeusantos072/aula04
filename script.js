@@ -98,7 +98,7 @@ function loadQuestion() {
 
 
       // espera 1s e vai para a próxima
-      setTimeout(nextQuestion, 10000);
+      setTimeout(nextQuestion, 5000);
     });
   });
 }
